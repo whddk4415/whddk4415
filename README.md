@@ -5,7 +5,7 @@
 
 <br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=whddk4415)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=whddk4415&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
